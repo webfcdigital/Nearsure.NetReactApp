@@ -1,0 +1,16 @@
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/bin/Debug/net8.0/NearsureApp.Application.deps.json
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/bin/Debug/net8.0/NearsureApp.Application.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/bin/Debug/net8.0/NearsureApp.Application.pdb
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/bin/Debug/net8.0/NearsureApp.Domain.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/bin/Debug/net8.0/NearsureApp.Domain.pdb
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.csproj.AssemblyReference.cache
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.AssemblyInfoInputs.cache
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.AssemblyInfo.cs
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.csproj.CoreCompileInputs.cache
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.sourcelink.json
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/Nearsure.9C6EA0BE.Up2Date
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/refint/NearsureApp.Application.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/NearsureApp.Application.pdb
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Application/obj/Debug/net8.0/ref/NearsureApp.Application.dll

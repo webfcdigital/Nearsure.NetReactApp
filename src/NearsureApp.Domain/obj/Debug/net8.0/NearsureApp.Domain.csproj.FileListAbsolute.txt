@@ -1,0 +1,12 @@
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/bin/Debug/net8.0/NearsureApp.Domain.deps.json
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/bin/Debug/net8.0/NearsureApp.Domain.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/bin/Debug/net8.0/NearsureApp.Domain.pdb
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.AssemblyInfoInputs.cache
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.AssemblyInfo.cs
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.csproj.CoreCompileInputs.cache
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.sourcelink.json
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/refint/NearsureApp.Domain.dll
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/NearsureApp.Domain.pdb
+/workspaces/Nearsure.NetReactApp/src/NearsureApp.Domain/obj/Debug/net8.0/ref/NearsureApp.Domain.dll

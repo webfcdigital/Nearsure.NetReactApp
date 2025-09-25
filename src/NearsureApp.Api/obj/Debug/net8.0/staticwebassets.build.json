@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9EZYQR0wQfqMnlBxKyEy2LhLK3XABRS1wpvZ+4WeYkE=",
+  "Source": "NearsureApp.Api",
+  "BasePath": "_content/NearsureApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

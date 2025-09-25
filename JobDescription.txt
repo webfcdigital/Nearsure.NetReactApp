@@ -1,0 +1,63 @@
+Documento de Contexto — Jornada para a Oportunidade
+■ Propósito
+Demonstrar, de forma clara, poderosa e inspiradora, o nosso potencial como Staff Fullstack
+Engineer em .NET Core + React, comunicando conhecimento técnico, visão arquitetural, cultura
+de engenharia, e alinhamento com a missão de construir sistemas seguros, escaláveis e
+orientados a impacto para clientes globais. Este documento é também uma ferramenta
+orientadora para IAs generativas, de forma que possam apoiar na construção de respostas,
+provas de conceito e demonstrações que reforcem nosso valor como candidato.
+■ Pilares da Nossa Identidade Técnica
+1. Profundidade em Backend com .NET Core - Mais de 8 anos construindo sistemas orientados
+a objetos em C#. - Domínio de microserviços, DDD, CQRS, Event Sourcing e APIs
+REST/GraphQL. - Experiência prática em migração de monólitos para arquiteturas distribuídas. -
+Integração com AWS (ECS, Lambda, S3, RDS, DynamoDB). - Monitoramento com New Relic,
+Kibana, OpenTelemetry.
+2. Excelência em Frontend com React - Desenvolvimento de aplicações ricas em React,
+Typescript e Next.js. - Estado gerenciado com Redux/React Query, garantindo escalabilidade da
+UI. - Testes com Jest, React Testing Library, Cypress para e2e. - Integração CI/CD com
+pipelines otimizados.
+3. Engenharia de Software Moderna - Adoção de práticas de Clean Code e princípios SOLID. -
+Revisões de código colaborativas, pair programming e code ownership. - Cultura de testes
+(unitários, integração, contrato, end-to-end). - Infraestrutura como código (Terraform, Pulumi). -
+Segurança by design, com autenticação via OpenID Connect, OAuth2 e proteção de dados.
+4. Liderança e Colaboração - Mentoria de times, facilitando aprendizado e boas práticas. -
+Participação ativa em decisões de arquitetura com foco em trade-offs reais. - Comunicação
+fluente em inglês, facilitando a colaboração global. - Postura de feedback culture, buscando
+sempre melhoria contínua.
+■■■ Influências e Mentoria Intelectual
+- Anders Hejlsberg (Inventor do C#): inspiração para explorar tipagem forte, LINQ e o poder da
+linguagem como forma de expressar clareza arquitetural. - Linus Torvalds (Linux/Git): disciplina
+em engenharia colaborativa, simplicidade e pragmatismo no design de sistemas complexos. -
+Martin Fowler (Arquitetura/Refatoração): referência em design de microserviços, padrões
+arquiteturais e evolução contínua de software. - Eric Evans (DDD): modelagem de domínios
+ricos e ubiquidade de linguagem com stakeholders. - Kent Beck (XP/TDD): mentalidade de
+testes como motor da inovação, feedback rápido e foco em entregar valor real.
+■ Estratégia Técnica para Entregar Valor
+1. Construir sistemas resilientes: microserviços desacoplados, mensageria assíncrona
+(RabbitMQ/Kafka), retries inteligentes. 2. Escalabilidade horizontal: containerização com
+Docker/Kubernetes, auto-scaling na AWS. 3. Segurança avançada: autenticação federada,
+encriptação ponta a ponta, gestão de segredos (AWS Secrets Manager). 4. Observabilidade
+completa: tracing distribuído, dashboards de métricas em Grafana, alertas proativos. 5.
+Front-end centrado no usuário: experiência fluida, responsiva e acessível, com componentes
+reutilizáveis em React.
+■ Proposta de Valor para a Empresa
+- Inovação com responsabilidade: uso de IA generativa para acelerar desenvolvimento (ex.:
+geração de testes, boilerplates, documentação viva). - Cultura DevEx: ferramentas e
+automações que aumentam a produtividade do time sem comprometer qualidade. - Orientação
+a resultados: não só escrever código, mas resolver problemas de negócio com eficiência e
+clareza. - Compromisso com parceiros e usuários: entender profundamente suas dores e
+oferecer soluções que realmente os façam crescer.
+■■ Como as IAs Generativas nos Apoiarão
+- Code Assistant: geração e revisão de código em C# e React. - Architecture Advisor:
+recomendações de padrões arquiteturais e segurança. - Knowledge Synthesizer: resumo de
+artigos técnicos e melhores práticas. - Test Generator: criação automática de suites de testes. -
+Productivity Booster: automação de documentação, diagramas, e scripts DevOps.
+■ Visão de Futuro
+Queremos ser agentes de transformação na empresa, ajudando a moldar sistemas globais que
+sejam: - Escaláveis como o Git. - Elegantes como o design de C#. - Sustentáveis como os
+princípios de Kent Beck. - Adaptáveis como os padrões de Martin Fowler. Um futuro onde
+engenharia, negócios e usuários convergem para criar impacto real.
+■ Mensagem final
+Estamos prontos para assumir o papel de Staff Fullstack Engineer, guiados por princípios
+sólidos, técnicas modernas e a inspiração de grandes mentes que moldaram nossa área.
+Vamos juntos construir sistemas que transformam negócios e encantam usuários.
