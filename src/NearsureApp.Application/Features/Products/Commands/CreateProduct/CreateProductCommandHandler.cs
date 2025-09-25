@@ -1,4 +1,3 @@
-
 using MediatR;
 using NearsureApp.Application.Interfaces;
 using NearsureApp.Domain.Entities;
@@ -18,7 +17,6 @@ public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand,
     {
         var product = new Product
         {
-            Id = Guid.NewGuid(),
             Name = request.Name,
             Description = request.Description,
             Price = request.Price

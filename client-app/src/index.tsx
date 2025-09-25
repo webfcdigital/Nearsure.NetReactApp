@@ -10,14 +10,18 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 
-const initOptions = { onLoad: 'login-required' };
+const initOptions = { checkLoginIframe: false, onLoad: 'check-sso' };
+
+const loadingComponent = (
+  <div>
+    <h1>Loading...</h1>
+  </div>
+)
 
 root.render(
   <React.StrictMode>
-    <ReactKeycloakProvider authClient={keycloak} initOptions={initOptions}>
-      <React.Suspense fallback={<div>Loading...</div>}>
-        <App />
-      </React.Suspense>
+    <ReactKeycloakProvider authClient={keycloak} initOptions={initOptions} onLoadingComponent={loadingComponent}>
+      <App />
     </ReactKeycloakProvider>
   </React.StrictMode>
 );
